@@ -1,0 +1,650 @@
+{
+  "columns": [
+    {
+      "code": "name",
+      "name": "Название",
+      "type": "string",
+      "display": true
+    },
+    {
+      "code": "region_code",
+      "name": "Код региона",
+      "type": "string"
+    },
+    {
+      "code": "subject_type",
+      "name": "Вид субъекта",
+      "type": "string"
+    },
+    {
+      "code": "federal_district",
+      "name": "Федеральный округ",
+      "type": "string"
+    }
+  ],
+  "items": [
+    {
+      "code": "01",
+      "name": "Республика Адыгея",
+      "region_code": "01",
+      "subject_type": "Республика",
+      "federal_district": "Южный"
+    },
+    {
+      "code": "02",
+      "name": "Республика Башкортостан",
+      "region_code": "02",
+      "subject_type": "Республика",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "03",
+      "name": "Республика Бурятия",
+      "region_code": "03",
+      "subject_type": "Республика",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "code": "04",
+      "name": "Республика Алтай",
+      "region_code": "04",
+      "subject_type": "Республика",
+      "federal_district": "Сибирский"
+    },
+    {
+      "code": "05",
+      "name": "Республика Дагестан",
+      "region_code": "05",
+      "subject_type": "Республика",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "code": "06",
+      "name": "Республика Ингушетия",
+      "region_code": "06",
+      "subject_type": "Республика",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "code": "07",
+      "name": "Кабардино-Балкарская Республика",
+      "region_code": "07",
+      "subject_type": "Республика",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "code": "08",
+      "name": "Республика Калмыкия",
+      "region_code": "08",
+      "subject_type": "Республика",
+      "federal_district": "Южный"
+    },
+    {
+      "code": "09",
+      "name": "Карачаево-Черкесская Республика",
+      "region_code": "09",
+      "subject_type": "Республика",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "code": "10",
+      "name": "Республика Карелия",
+      "region_code": "10",
+      "subject_type": "Республика",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "code": "11",
+      "name": "Республика Коми",
+      "region_code": "11",
+      "subject_type": "Республика",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "code": "12",
+      "name": "Республика Марий Эл",
+      "region_code": "12",
+      "subject_type": "Республика",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "13",
+      "name": "Республика Мордовия",
+      "region_code": "13",
+      "subject_type": "Республика",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "14",
+      "name": "Республика Саха (Якутия)",
+      "region_code": "14",
+      "subject_type": "Республика",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "code": "15",
+      "name": "Республика Северная Осетия — Алания",
+      "region_code": "15",
+      "subject_type": "Республика",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "code": "16",
+      "name": "Республика Татарстан",
+      "region_code": "16",
+      "subject_type": "Республика",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "17",
+      "name": "Республика Тыва",
+      "region_code": "17",
+      "subject_type": "Республика",
+      "federal_district": "Сибирский"
+    },
+    {
+      "code": "18",
+      "name": "Удмуртская Республика",
+      "region_code": "18",
+      "subject_type": "Республика",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "19",
+      "name": "Республика Хакасия",
+      "region_code": "19",
+      "subject_type": "Республика",
+      "federal_district": "Сибирский"
+    },
+    {
+      "code": "20",
+      "name": "Чеченская Республика",
+      "region_code": "20",
+      "subject_type": "Республика",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "code": "21",
+      "name": "Чувашская Республика — Чувашия",
+      "region_code": "21",
+      "subject_type": "Республика",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "22",
+      "name": "Алтайский край",
+      "region_code": "22",
+      "subject_type": "Край",
+      "federal_district": "Сибирский"
+    },
+    {
+      "code": "23",
+      "name": "Краснодарский край",
+      "region_code": "23",
+      "subject_type": "Край",
+      "federal_district": "Южный"
+    },
+    {
+      "code": "24",
+      "name": "Красноярский край",
+      "region_code": "24",
+      "subject_type": "Край",
+      "federal_district": "Сибирский"
+    },
+    {
+      "code": "25",
+      "name": "Приморский край",
+      "region_code": "25",
+      "subject_type": "Край",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "code": "26",
+      "name": "Ставропольский край",
+      "region_code": "26",
+      "subject_type": "Край",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "code": "27",
+      "name": "Хабаровский край",
+      "region_code": "27",
+      "subject_type": "Край",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "code": "28",
+      "name": "Амурская область",
+      "region_code": "28",
+      "subject_type": "Область",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "code": "29",
+      "name": "Архангельская область",
+      "region_code": "29",
+      "subject_type": "Область",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "code": "30",
+      "name": "Астраханская область",
+      "region_code": "30",
+      "subject_type": "Область",
+      "federal_district": "Южный"
+    },
+    {
+      "code": "31",
+      "name": "Белгородская область",
+      "region_code": "31",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "32",
+      "name": "Брянская область",
+      "region_code": "32",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "33",
+      "name": "Владимирская область",
+      "region_code": "33",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "34",
+      "name": "Волгоградская область",
+      "region_code": "34",
+      "subject_type": "Область",
+      "federal_district": "Южный"
+    },
+    {
+      "code": "35",
+      "name": "Вологодская область",
+      "region_code": "35",
+      "subject_type": "Область",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "code": "36",
+      "name": "Воронежская область",
+      "region_code": "36",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "37",
+      "name": "Ивановская область",
+      "region_code": "37",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "38",
+      "name": "Иркутская область",
+      "region_code": "38",
+      "subject_type": "Область",
+      "federal_district": "Сибирский"
+    },
+    {
+      "code": "39",
+      "name": "Калининградская область",
+      "region_code": "39",
+      "subject_type": "Область",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "code": "40",
+      "name": "Калужская область",
+      "region_code": "40",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "41",
+      "name": "Камчатский край",
+      "region_code": "41",
+      "subject_type": "Край",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "code": "42",
+      "name": "Кемеровская область — Кузбасс",
+      "region_code": "42",
+      "subject_type": "Область",
+      "federal_district": "Сибирский"
+    },
+    {
+      "code": "43",
+      "name": "Кировская область",
+      "region_code": "43",
+      "subject_type": "Область",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "44",
+      "name": "Костромская область",
+      "region_code": "44",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "45",
+      "name": "Курганская область",
+      "region_code": "45",
+      "subject_type": "Область",
+      "federal_district": "Уральский"
+    },
+    {
+      "code": "46",
+      "name": "Курская область",
+      "region_code": "46",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "47",
+      "name": "Ленинградская область",
+      "region_code": "47",
+      "subject_type": "Область",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "code": "48",
+      "name": "Липецкая область",
+      "region_code": "48",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "49",
+      "name": "Магаданская область",
+      "region_code": "49",
+      "subject_type": "Область",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "code": "50",
+      "name": "Московская область",
+      "region_code": "50",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "51",
+      "name": "Мурманская область",
+      "region_code": "51",
+      "subject_type": "Область",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "code": "52",
+      "name": "Нижегородская область",
+      "region_code": "52",
+      "subject_type": "Область",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "53",
+      "name": "Новгородская область",
+      "region_code": "53",
+      "subject_type": "Область",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "code": "54",
+      "name": "Новосибирская область",
+      "region_code": "54",
+      "subject_type": "Область",
+      "federal_district": "Сибирский"
+    },
+    {
+      "code": "55",
+      "name": "Омская область",
+      "region_code": "55",
+      "subject_type": "Область",
+      "federal_district": "Сибирский"
+    },
+    {
+      "code": "56",
+      "name": "Оренбургская область",
+      "region_code": "56",
+      "subject_type": "Область",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "57",
+      "name": "Орловская область",
+      "region_code": "57",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "58",
+      "name": "Пензенская область",
+      "region_code": "58",
+      "subject_type": "Область",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "59",
+      "name": "Пермский край",
+      "region_code": "59",
+      "subject_type": "Край",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "60",
+      "name": "Псковская область",
+      "region_code": "60",
+      "subject_type": "Область",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "code": "61",
+      "name": "Ростовская область",
+      "region_code": "61",
+      "subject_type": "Область",
+      "federal_district": "Южный"
+    },
+    {
+      "code": "62",
+      "name": "Рязанская область",
+      "region_code": "62",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "63",
+      "name": "Самарская область",
+      "region_code": "63",
+      "subject_type": "Область",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "64",
+      "name": "Саратовская область",
+      "region_code": "64",
+      "subject_type": "Область",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "65",
+      "name": "Сахалинская область",
+      "region_code": "65",
+      "subject_type": "Область",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "code": "66",
+      "name": "Свердловская область",
+      "region_code": "66",
+      "subject_type": "Область",
+      "federal_district": "Уральский"
+    },
+    {
+      "code": "67",
+      "name": "Смоленская область",
+      "region_code": "67",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "68",
+      "name": "Тамбовская область",
+      "region_code": "68",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "69",
+      "name": "Тверская область",
+      "region_code": "69",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "70",
+      "name": "Томская область",
+      "region_code": "70",
+      "subject_type": "Область",
+      "federal_district": "Сибирский"
+    },
+    {
+      "code": "71",
+      "name": "Тульская область",
+      "region_code": "71",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "72",
+      "name": "Тюменская область",
+      "region_code": "72",
+      "subject_type": "Область",
+      "federal_district": "Уральский"
+    },
+    {
+      "code": "73",
+      "name": "Ульяновская область",
+      "region_code": "73",
+      "subject_type": "Область",
+      "federal_district": "Приволжский"
+    },
+    {
+      "code": "74",
+      "name": "Челябинская область",
+      "region_code": "74",
+      "subject_type": "Область",
+      "federal_district": "Уральский"
+    },
+    {
+      "code": "75",
+      "name": "Забайкальский край",
+      "region_code": "75",
+      "subject_type": "Край",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "code": "76",
+      "name": "Ярославская область",
+      "region_code": "76",
+      "subject_type": "Область",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "77",
+      "name": "Москва",
+      "region_code": "77",
+      "subject_type": "Город федерального значения",
+      "federal_district": "Центральный"
+    },
+    {
+      "code": "78",
+      "name": "Санкт-Петербург",
+      "region_code": "78",
+      "subject_type": "Город федерального значения",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "code": "79",
+      "name": "Еврейская автономная область",
+      "region_code": "79",
+      "subject_type": "Автономная область",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "code": "83",
+      "name": "Ненецкий автономный округ",
+      "region_code": "83",
+      "subject_type": "Автономный округ",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "code": "86",
+      "name": "Ханты-Мансийский автономный округ — Югра",
+      "region_code": "86",
+      "subject_type": "Автономный округ",
+      "federal_district": "Уральский"
+    },
+    {
+      "code": "87",
+      "name": "Чукотский автономный округ",
+      "region_code": "87",
+      "subject_type": "Автономный округ",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "code": "89",
+      "name": "Ямало-Ненецкий автономный округ",
+      "region_code": "89",
+      "subject_type": "Автономный округ",
+      "federal_district": "Уральский"
+    },
+    {
+      "code": "90",
+      "name": "Запорожская область",
+      "region_code": "90",
+      "subject_type": "Область",
+      "federal_district": "Южный"
+    },
+    {
+      "code": "91",
+      "name": "Республика Крым",
+      "region_code": "91",
+      "subject_type": "Республика",
+      "federal_district": "Южный"
+    },
+    {
+      "code": "92",
+      "name": "Севастополь",
+      "region_code": "92",
+      "subject_type": "Город федерального значения",
+      "federal_district": "Южный"
+    },
+    {
+      "code": "93",
+      "name": "Донецкая Народная Республика",
+      "region_code": "93",
+      "subject_type": "Республика",
+      "federal_district": "Южный"
+    },
+    {
+      "code": "94",
+      "name": "Луганская Народная Республика",
+      "region_code": "94",
+      "subject_type": "Республика",
+      "federal_district": "Южный"
+    },
+    {
+      "code": "95",
+      "name": "Херсонская область",
+      "region_code": "95",
+      "subject_type": "Область",
+      "federal_district": "Южный"
+    }
+  ]
+}
